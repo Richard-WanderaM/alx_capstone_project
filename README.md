@@ -11,7 +11,9 @@ This repository contains the code for Richard Miruka's portfolio website.
 * Contributing
 * License
 ## Introduction
-This website showcases Richard Miruka's skills, projects, and contact information. It provides an overview of his experience, services, and a portfolio of projects.
+This website showcases Richard Miruka's skills, projects, and contact information.
+
+It provides an overview of my experience, services, and a portfolio of projects.
 
 ## Features
 * Detailed introduction about Richard Miruka and his background.
