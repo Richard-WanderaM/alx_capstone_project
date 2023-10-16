@@ -16,9 +16,9 @@ This website showcases Richard Miruka's skills, projects, and contact informatio
 It provides an overview of my experience, services, and a portfolio of projects.
 
 ## Features
-* Detailed introduction about Richard Miruka and his background.
+* Detailed introduction about Richard Miruka and my background.
 * Information about my skills, experience, and education.
-* Services offered by Richard.
+* Services offered by me.
 * A portfolio section showcasing some of my projects.
 * Contact form to reach out to me.
 * Links to my social profiles and a downloadable CV.
